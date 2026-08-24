@@ -3,10 +3,15 @@ Analyzed movie industry data from 1980–2020 to identify revenue trends, inflat
 
 # Tools #
 Microsoft Excel
+
 PivotTables
+
 XLOOKUP
+
 IF
+
 Data aggregation
+
 CPI/inflation adjustment
 
 # Key Findings #
