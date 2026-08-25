@@ -14,6 +14,15 @@ Data aggregation
 
 CPI/inflation adjustment
 
+# Key Skills Demonstrated #
+- Data cleaning and validation
+- PivotTable analysis
+- Lookup functions
+- Inflation-adjusted calculations
+- Ratio analysis
+- Data visualization
+- Business insight and recommendations
+
 # Key Findings #
 Gross revenue generally increased through 2019 before declining sharply in 2020.
 Inflation has a substantially larger impact on earlier movie revenues.
