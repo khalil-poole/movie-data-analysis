@@ -2,17 +2,12 @@
 Analyzed movie industry data from 1980–2020 to identify revenue trends, inflation-adjusted revenue trends, and relationships between movie characteristics and gross revenue relative to budget.
 
 # Tools #
-Microsoft Excel
-
-PivotTables
-
-XLOOKUP
-
-IF
-
-Data aggregation
-
-CPI/inflation adjustment
+- Microsoft Excel
+- PivotTables
+- XLOOKUP
+- IF
+- Data aggregation
+- CPI/inflation adjustment
 
 # Key Skills Demonstrated #
 - Data cleaning and validation
