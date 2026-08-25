@@ -32,5 +32,5 @@ Comedy and Drama followed closely at 2.84 and 2.83.
 
 <img width="302" height="667" alt="Pivot_Table_Data" src="https://github.com/user-attachments/assets/2420a591-9b11-47cf-bc1b-31496a445ce1" />
 
-## Project Files
+## Project File
 [Movie_Data_Analysis.xlsx](https://github.com/user-attachments/files/31404615/Movie_Data_Analysis.xlsx)
