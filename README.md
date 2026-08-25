@@ -25,7 +25,12 @@ Movie scores showed little relationship with gross relative to budget.
 Action films had the strongest gross/budget ratio among highly represented genres at 2.93.
 Comedy and Drama followed closely at 2.84 and 2.83.
 
-<img width="302" height="667" alt="Pivot_Table_Data" src="https://github.com/user-attachments/assets/2420a591-9b11-47cf-bc1b-31496a445ce1" />
-
+# Screenshots #
 
 <img width="809" height="542" alt="Gross_Budget_Relative_To_Year" src="https://github.com/user-attachments/assets/81861e95-fa20-42db-9206-c10b74ec37d3" />
+
+
+<img width="302" height="667" alt="Pivot_Table_Data" src="https://github.com/user-attachments/assets/2420a591-9b11-47cf-bc1b-31496a445ce1" />
+
+## Project Files
+[Movie_Data_Analysis.xlsx](https://github.com/user-attachments/files/31404615/Movie_Data_Analysis.xlsx)
